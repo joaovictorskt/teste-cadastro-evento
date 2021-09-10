@@ -15,4 +15,4 @@ var idade = "18";
 var listadeparticipantes = "100";
    if (listadeparticipantes >"100"){
        console.log ("CADASTRO NEGADO"); console.log ("LIMITE DE PARTICIPANTES ATINGIDO")
-   } else console.log ("CADASTRO CONCLUÍDO);
+   } else console.log ("CADASTRO CONCLUÍDO");
